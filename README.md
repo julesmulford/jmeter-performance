@@ -1,8 +1,8 @@
 # jmeter-performance
 
-> **GitHub repo description:** JMeter performance test suite — smoke, load, and stress test plans targeting reqres.in REST API via Maven plugin, with HTML/JTL reporting.
+JMeter performance test suite — smoke, load, and stress test plans targeting reqres.in REST API via Maven plugin, with HTML/JTL reporting.
 
-A production-grade Apache JMeter performance testing project demonstrating enterprise load testing patterns: parameterised thread groups, JSON path extraction and assertions, duration-based assertions, reusable Maven properties, and automated HTML report generation via the JMeter Maven Plugin.
+JMeter performance testing project demonstrating enterprise load testing patterns: parameterised thread groups, JSON path extraction and assertions, duration-based assertions, reusable Maven properties, and automated HTML report generation via the JMeter Maven Plugin.
 
 ## Tech Stack
 
