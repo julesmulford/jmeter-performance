@@ -1,0 +1,6 @@
+target/
+*.jtl
+*.log
+jmeter.log
+.idea/
+*.iml
